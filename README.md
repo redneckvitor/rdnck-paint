@@ -5,6 +5,15 @@
   Criei meu próprio Paint com Pyhton e Pygame, totalmente funcional e com vários tamanhos e cores de pincéis 
 </p>
 
+
+<h2 align="center">
+  <a href="https://github.com/redneckvitor/rdnck-painter/releases/download/Windows/RDNCK.Paint.v0.1.0.zip">
+    Baixe para Windows aqui
+  </a>
+</h2>
+
+
+
 <p align="center" style="width:100%;height:auto>
   <img src="" />
   <img src="https://i.postimg.cc/mgrns63B/safklfsak.png" />
